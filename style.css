@@ -6,6 +6,14 @@ body{
     color: black;
 }
 
+@media screen and (max-width: 800px) {
+    body {
+        background-color: lightpurple; /* This is not a valid CSS color, so use an actual hex or named color */
+        background-color: #D8BFD8; /* Light purple (Thistle) */
+    }
+}
+
+
 @media screen and (max-width:400px){
     /* Anytime the page is shown on a screen, with a width from 0px to 400px wide. */
 
@@ -13,3 +21,4 @@ body{
     background-color: lightblue;
     color: black;
 }
+
