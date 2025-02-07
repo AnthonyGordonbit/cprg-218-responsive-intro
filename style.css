@@ -14,7 +14,7 @@ body{
 }
 
 
-@media screen and (max-width:400px){
+@media screen and (max-width:450px){
     /* Anytime the page is shown on a screen, with a width from 0px to 400px wide. */
 
 body{
